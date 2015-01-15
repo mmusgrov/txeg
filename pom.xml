@@ -68,7 +68,7 @@
     <dependency>
       <groupId>org.jboss.narayana.jta</groupId>
       <artifactId>narayana-jta</artifactId>
-      <version>5.0.5.Final-SNAPSHOT</version>
+      <version>5.0.4.Final</version>
     </dependency>
     <dependency>
       <groupId>org.jboss.logging</groupId>
